@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"new event","image":"https://media.istockphoto.com/id/2217030312/photo/ai-agent-machine-learning-concepts-ai-artificial-intelligence-head-shape-on-abstract-cpu.webp?a=1&b=1&s=612x612&w=0&k=20&c=0AVRMgM4z9PBgoY8l5SziJYQnsc4bvmDlmTUnH70E4E=","date":"2025-10-18","description":"desd ","id":"7d13a768-fa31-4afe-bf17-c9fcdc23de88"},{"title":"A new event!!!","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG","date":"2025-06-26","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"a@a.com","password":"$2a$12$0YWY28zoYIsyIBAVMP8/i.g698FzjU/yr0IuXP5FL37Wt.fNTU4bG","id":"2ec0d611-1c7f-4b3a-8775-400f1814c8fe"}]}
